@@ -6,7 +6,7 @@ const PROJECT_LINKS = {
   },
   elitearticles: {
     github: "https://github.com/Group-Project-C2/comp1640-magazine-system",
-    demo: null,
+    demo: "https://comp1640-magazine-system-production.up.railway.app/",
   },
   "mhike-android": {
     github: "https://github.com/KyawMyoHtay1/mhike_android_kotlin",

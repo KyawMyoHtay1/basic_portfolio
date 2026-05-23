@@ -36,9 +36,10 @@ const PROJECTS = {
       "Implemented student file uploads, coordinator review and selection, manager reporting with ZIP export, and faculty-scoped guest access.",
       "Produced test plans, user stories, MoSCoW prioritization, use case diagrams, sitemaps, ERDs, and class diagrams.",
       "Participated in sprint reviews, retrospectives, testing, and iterative feature delivery across the full software lifecycle.",
+      "Deployed a live demo on Railway for portfolio review and interviews.",
     ],
     github: "elitearticles",
-    demo: null,
+    demo: "elitearticles",
   },
   "mhike-android": {
     title: "M-Hike — Native Android Application",
